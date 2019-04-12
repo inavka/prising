@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="369" height="423.656" viewBox="0 0 369 423.656">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="bg-hover.svg" class="cls-1" d="M522,412s168-168,369,0V761H522V412Z" transform="translate(-522 -337.344)"/>
+</svg>
